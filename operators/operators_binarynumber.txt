@@ -1,0 +1,64 @@
+operators: symbols that tell compilers to perform some operations.
+in math we have 2 operands and one operator and hence known as binary operators.
+
+arithematic operators:
+in binary:
++ = a + b addition.
+- = a - b subtraction.
+* = a * b multiplication.
+/ = a / b division.
+% = a % b modulo.
+
+in uranary: (one digit operations)
+++ add one.
+-- subtract one.
+
+Pre increment:
+steps: 1. change value.
+       2. use value.
+written as: ++a
+
+Post increment:
+steps: 1. use value.
+       2. change value.
+written as: a++
+
+the same can be done in pre and post decrement.
+
+Relational operators:
+== equal to
+!= not equal to.
+> greater than.
+< less than.
+>= greater than equal to.
+<= less than equal to.
+
+Logical operators:
+&& logical and.
+|| logical or.
+! logical not.
+
+Binary number system i.e. base 2.
+4 in binary would be : 0100.
+0101 in decimal would be: 5.
+
+octal is base 8.
+hexadecimal is base 16.
+
+Bitwise operators:
+it works with each and one in binary digits.
+when done in bits it makes program fast.
+& - binary and.
+| - binary or.
+^ - binary xor.
+~ - binary one's complement. (shifts negative to positive and visa versa)
+<< - binary left shift. (number << index)
+>> - binary right shift.
+
+Assignment operators:
+= shift value.
++= increase by the value.
+-= decrease by the value.
+*= multiplied by the value.
+/= divide by the value.
+%= remainder when divide by the other number.

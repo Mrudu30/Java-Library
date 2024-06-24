@@ -1,0 +1,17 @@
+array is a list of items of the same type in java.
+
+Defining an array:
+type[] arrayname = new type[size]
+eg. int[] marks = new int[5]
+can also be int marks[] = new int[5]
+If you don't know what the size is going to be and define array in one go then :
+int marks[] = {12,23,45} would also work
+
+Array Indexing:
+starts from 0
+zero indexed arrays
+
+what happens in memory:
+4 bytes for each integer hence 12 bytes store 4 bytes
+
+if nothing is defined it takes a bydefault number so it stores 0 for integer

@@ -1,0 +1,12 @@
+string builder for string to be modified
+strings are immutable in java
+data is in stack or in heap.
+string str ="h"
+this will create a string "h" in heap
+and a memory space in stack as str.
+and as we change str a new str is created and the old one will be deleted.
+as the str changes it takes higher time and as load increases the space time complexity increases too.
+where as string builder doesn't do that it creates a mutable string.
+
+any changes in string builder does not change the whole new string.
+it just changes the current string builder
